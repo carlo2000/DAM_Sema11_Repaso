@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DAM_CarlosDanielAquinoLlacsa</string>
+    <string name="text_titulo">Examen de Admision 2023</string>
+    <string name="text_Untels">UNTELS</string>
+    <string name="text_direccion">Dirección</string>
+    <string name="text_email">Email</string>
+    <string name="text_telefono">Teléfono</string>
+    <string name="text_subtitulo">Formulario de Registro</string>
+    <string name="text_nombres_completos">Apellido y Nombre</string>
+    <string name="text_correo">Correo Electrónico</string>
+    <string name="text_clave">Clave :</string>
+    <string name="text_Fecha_Nacimiento">Fecha de Nacimiento</string>
+    <string name="text_carrera">Carrera</string>
+    <string name="radiobutton_Ing_Sistemas">Ingeniería de Sistemas</string>
+    <string name="radiobutton_Ing_Ambiental">Ingeniería Ambiental</string>
+    <string name="radiobutton_Ing_Mecanica">Ingeniería Mecánica</string>
+    <string name="radiobutton_Admi">Administración</string>
+    <string name="text_medio">¿Por qué medio se enteró de la convocatoria?</string>
+    <string name="checkbox_medios_rad">Radio</string>
+    <string name="checkbox_medios_inter">Internet</string>
+    <string name="checkbox_medios_amigo">Amigo</string>
+    <string name="checkbox_medios_publi">Publidad</string>
+    <string name="button_enviar">Enviar</string>
+</resources>
